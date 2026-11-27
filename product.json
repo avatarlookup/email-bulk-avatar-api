@@ -41,7 +41,7 @@
   "result_fields": [
     {
       "name": "identifier",
-      "example": "alex.kim@gmail.com",
+      "example": "alex.kim@example.com",
       "description": "Submitted identifier, used to join the result to the input. Phone identifiers include their country code."
     },
     {

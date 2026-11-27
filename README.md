@@ -53,7 +53,7 @@ The current brand-side export uses these columns, in this order. Preserve their 
 
 | Column | Example | Meaning |
 |---|---|---|
-| `identifier` | `alex.kim@gmail.com` | Submitted identifier, used to join the result to the input. Phone identifiers include their country code. |
+| `identifier` | `alex.kim@example.com` | Submitted identifier, used to join the result to the input. Phone identifiers include their country code. |
 | `activated` | `true` | The determined positive/negative signal for this product; interpret it in the product context. |
 | `avatar` | `true` | Whether an avatar is available. |
 | `avatar_url` | `https://lh3.googleusercontent.com/a/example` | Public avatar URL when available; an empty value does not reveal a private image. |
